@@ -18,10 +18,12 @@ Example usage: https://asciinema.org/a/KkOHP2Jef0E6wViPCglkXLRcV
 
 ## installation
 ```shell
-git clone https://github.com/ixty/mandibule
+git clone https://github.com/dukejob/mandibule-modify
 make
 ```
 
+## Note
+if inject a static elf, please give it another base addr by using linker script 
 
 ## usage
 ```shell
